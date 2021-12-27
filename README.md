@@ -26,6 +26,7 @@
 ## Latest Articles 📰
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplest Way to Install Babel Plugins in Create React App](https://dev.to/ansonh/simplest-way-to-install-babel-plugins-in-create-react-app-7i5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Check out the following repositories! 👇</h3>
