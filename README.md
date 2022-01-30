@@ -26,7 +26,7 @@
 ## Latest Articles 📰
 
 <!-- BLOG-POST-LIST:START -->
-- [Customize &amp; Beautify your Windows Terminal &lpar;2022 edition&rpar;](https://dev.to/ansonh/customize-beautify-your-windows-terminal-2022-edition-541l)
+- [Customize &amp; Beautify your Windows Terminal &lpar;2022 Edition&rpar;](https://dev.to/ansonh/customize-beautify-your-windows-terminal-2022-edition-541l)
 - [Simplest Way to Install Babel Plugins in Create React App](https://dev.to/ansonh/simplest-way-to-install-babel-plugins-in-create-react-app-7i5)
 <!-- BLOG-POST-LIST:END -->
 
