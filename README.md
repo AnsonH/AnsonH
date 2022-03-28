@@ -18,9 +18,9 @@
 ## GitHub Stats 📊
 
 <p float="left">
-  <img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnsonH&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=prs" />
+  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnsonH&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=prs" />
   &nbsp;&nbsp;&nbsp;
-  <img height="150em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonH&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
+  <img height="160em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonH&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
 </p>
 
 ## Latest Articles 📰
