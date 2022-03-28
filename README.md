@@ -18,9 +18,11 @@
 ## GitHub Stats 📊
 
 <p float="left">
-  <img height="170em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnsonH&bg_color=0d1117&title_color=78dce8&text_color=fdfdfd&icon_color=78dce8&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=prs" />
+  <img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnsonH&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&icon_color=a9dc76&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=prs#gh-dark-mode-only" />
+  <img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnsonH&title_color=497d12&icon_color=497d12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=prs#gh-light-mode-only" />
   &nbsp;&nbsp;&nbsp;
-  <img height="170em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonH&bg_color=0d1117&title_color=78dce8&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell" />
+  <img height="150em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonH&bg_color=0d1117&title_color=a9dc76&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact&hide=shell#gh-dark-mode-only" />
+  <img height="150em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonH&title_color=497d12&show_icons=true&hide_border=true&layout=compact&hide=shell#gh-light-mode-only" />
 </p>
 
 ## Latest Articles 📰
