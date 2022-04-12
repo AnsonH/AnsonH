@@ -11,9 +11,9 @@
 
 ## About Me 🙆‍♂️
 
-- 👨‍🎓 I'm a penultimate student from HKUST double majoring in **Computer Science** and **General Business Management**.
-- 🌐 I'm a **front-end web developer** who enjoys building websites with stunning interfaces.
-- 🎯 My recent goals are to learn TypeScript and publish articles to DEV.to
+- I'm a penultimate student from HKUST double majoring in **Computer Science** and **General Business Management**.
+- I'm a **front-end web developer** who enjoys building websites with stunning interfaces.
+- My recent goals are to learn TypeScript and publish articles to DEV.to
 
 ## GitHub Stats 📊
 
