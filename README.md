@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋</h1>
 <p align="center">
-  <a href="https://ansonheung.me"><img height="25" src="https://img.shields.io/badge/Website-2B4783?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.ansonh.com"><img height="25" src="https://img.shields.io/badge/Website-2B4783?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/11067496/ansonh"><img height="25" src="https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-  <a href="mailto:ansonheung@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ansonheung2000@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=AnsonH&color=658447&style=for-the-badge">
 </p>
 
