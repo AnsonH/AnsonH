@@ -26,9 +26,9 @@ Tools:
 ## Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust From & Into Traits - A Full Beginner’s Guide 🦀](https://dev.to/ansonh/rust-from-into-traits-a-full-beginners-guide-1m9l)
 - [10 More VS Code Vim Tricks to Code Faster ⚡](https://dev.to/ansonh/10-more-vs-code-vim-tricks-to-become-a-faster-coder-ndi)
 - [10 VS Code Vim Tricks to Boost Your Productivity ⚡](https://dev.to/ansonh/10-vs-code-vim-tricks-to-boost-your-productivity-1b0n)
-- [Customize &amp; Beautify your Windows Terminal &lpar;2022 Edition&rpar;](https://dev.to/ansonh/customize-beautify-your-windows-terminal-2022-edition-541l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Check out these repositories! 👇</h3>
